@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/usa_lakes/static/css/main.74ee6e27.chunk.css",
+    "main.js": "/usa_lakes/static/js/main.8762a00c.chunk.js",
+    "main.js.map": "/usa_lakes/static/js/main.8762a00c.chunk.js.map",
+    "runtime-main.js": "/usa_lakes/static/js/runtime-main.c70c6d88.js",
+    "runtime-main.js.map": "/usa_lakes/static/js/runtime-main.c70c6d88.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/usa_lakes/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.691f9cb9.chunk.js": "/usa_lakes/static/js/2.691f9cb9.chunk.js",
+    "static/js/2.691f9cb9.chunk.js.map": "/usa_lakes/static/js/2.691f9cb9.chunk.js.map",
+    "static/js/3.56c2daec.chunk.js": "/usa_lakes/static/js/3.56c2daec.chunk.js",
+    "static/js/3.56c2daec.chunk.js.map": "/usa_lakes/static/js/3.56c2daec.chunk.js.map",
+    "index.html": "/usa_lakes/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/usa_lakes/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.74ee6e27.chunk.css.map": "/usa_lakes/static/css/main.74ee6e27.chunk.css.map",
+    "static/js/2.691f9cb9.chunk.js.LICENSE.txt": "/usa_lakes/static/js/2.691f9cb9.chunk.js.LICENSE.txt",
+    "static/media/logo.e0f4db7e.svg": "/usa_lakes/static/media/logo.e0f4db7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70c6d88.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.691f9cb9.chunk.js",
+    "static/css/main.74ee6e27.chunk.css",
+    "static/js/main.8762a00c.chunk.js"
+  ]
+}
